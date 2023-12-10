@@ -42,6 +42,6 @@ dotnet build && donet run
 http://localhost:5250/
 
 
-## ✒️ Autores
+## ✒️ Alunas
 - Gabriela Santana de Medeiros Monti
 - Talita Ferreira de Lima 
