@@ -9,18 +9,24 @@ MVC (Model View Controller)
 
 # Para começar
 
-1. Clone o repositório
+### ➿ Clone o repositório
 ```
 git clone https://github.com/tl2011/myfinance-web-netcore.git)https://github.com/tl2011/myfinance-web-netcore.git
 ```
-2. Instale
+### 📦 Intale
    - VS Code,
    - MySQLServer
-3. Execute os scripts de banco de dados -  estão junto aos arquivos  
-4. No VS Code, use os comandos
+     
+### :arrow_forward: Execute os scripts de banco de dados
+    _script.sql_ : estão junto aos demais arquivos
+
+### :computer: No VS Code, use os comandos
 ```
 dotnet build && donet run
 ```
-5. Acesse o endereço http://localhost:5250/
+### :globe_with_meridians: Acesse o endereço 
+http://localhost:5250/
 
-# Desenvolvimento:
+## ✒️ Autores
+- Gabriela Santana de Medeiros Monti
+- Talita Ferreira de Lima 
