@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\myfinance-web-netcore.props" />
+</Project>
